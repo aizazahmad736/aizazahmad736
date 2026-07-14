@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on Open Source, AI, and Web Development projects.
 - 🤝 I’m looking for opportunities to contribute to impactful AI and software projects.
 - 💬 Ask me about Python, Machine Learning, Git, GitHub, or React.
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: aizazexforwardian@gmail.com
 - 🌐 Portfolio: **Coming Soon**
 - ⚡ Fun fact: I enjoy solving coding challenges, building AI projects, and learning new technologies every day.
 
