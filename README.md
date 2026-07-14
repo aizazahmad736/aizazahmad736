@@ -15,6 +15,7 @@
 - 📫 How to reach me: **your-email@example.com**
 - 🌐 Portfolio: **Coming Soon**
 - ⚡ Fun fact: I enjoy solving coding challenges, building AI projects, and learning new technologies every day.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aizaz-ahmad-a24667349) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aizaz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aizazexforwardian@gmail.com) 
 
@@ -32,4 +33,3 @@
 [![](https://komarev.com/ghpvc/?username=aizazahmad736&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
