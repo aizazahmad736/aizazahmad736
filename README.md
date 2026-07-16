@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**aizazahmad736/aizazahmad736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ## 👋 Hi, I'm Aizaz Ahmad
 
