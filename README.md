@@ -3,7 +3,7 @@
 
 
 
-## 👋 Hi, I'm Aizaz Ahmad
+##  Hi, I'm Aizaz Ahmad
 
 💻 Computer Science Student | Machine Learning  |  AI Engineer
 
