@@ -8,7 +8,7 @@
 💻 Computer Science Student | Machine Learning  |  AI Engineer
 
 - 🔭 I’m currently working on Machine Learning and Full-Stack projects.
-- 🌱 I’m currently learning Machine Learning, Deep Learning, React, and the MERN Stack.
+- 🌱 I’m currently learning Machine Learning, Deep Learning, React, and the MERN Stack developement.
 - 👯 I’m looking to collaborate on Open Source, AI, and Web Development projects.
 - 🤝 I’m looking for opportunities to contribute to impactful AI and software projects.
 - 💬 Ask me about Python, Machine Learning,Deep Learning, Git, GitHub, 
