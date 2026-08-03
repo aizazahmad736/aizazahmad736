@@ -5,7 +5,7 @@
 
 ##  Hi, I'm Aizaz Ahmad a python developer and an AI Engineer
 
-💻 Computer Science Student | Machine Learning  |  AI Engineer
+💻 Computer Science Student |AI Ambassador at @Mindhyve | Machine Learning  |  AI Engineer
 
 - 🔭 I’m currently working on Machine Learning and deep learning
 - 🌱 I’m currently learning Machine Learning, Deep Learning, React, and the MERN Stack developement.
