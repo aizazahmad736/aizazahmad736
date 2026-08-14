@@ -7,13 +7,13 @@
 
 💻 Computer Science Student |AI Ambassador at @Mindhyve | Machine Learning  |  AI Engineer
 
-- 🔭 I’m currently working on Machine Learning and deep learning.
-- 🌱 I’m currently learning Machine Learning, Deep Learning, React, and the MERN Stack developement.
-- 👯 I’m looking to collaborate on Open Source, AI, and Web Development projects.
-- 🤝 I’m looking for opportunities to contribute to impactful AI and software projects.
-- 💬 Ask me about Python, Machine Learning,Deep Learning, Git, GitHub, 
-- 📫 How to reach me: aizazexforwardian@gmail.com
-- ⚡ Fun fact: I enjoy solving coding challenges, building AI projects, and learning new technologies every day.
+🔭 Currently building: AI/ML projects, RAG applications, and intelligent software solutions.
+🌱 Currently learning: Deep Learning, NLP, LLMs, RAG, React, and MERN Stack.
+🤖 Interested in: Machine Learning, Generative AI, NLP, LLMs, and AI-powered applications.
+👯 Looking to collaborate on: Open Source, AI/ML, GenAI, and Web Development projects.
+🤝 Open to: Contributing to impactful AI and software engineering projects.
+💬 Ask me about: Python, Machine Learning, Deep Learning, NLP, RAG, Git, and GitHub.
+📫 Reach me: aizazexforwardian@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aizaz-ahmad-a24667349) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aizazexforwardian@gmail.com)
