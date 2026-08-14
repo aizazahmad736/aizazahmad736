@@ -8,11 +8,17 @@
 💻 Computer Science Student |AI Ambassador at @Mindhyve | Machine Learning  |  AI Engineer
 
 🔭 Currently building: AI/ML projects, RAG applications, and intelligent software solutions.
+
 🌱 Currently learning: Deep Learning, NLP, LLMs, RAG, React, and MERN Stack.
+
 🤖 Interested in: Machine Learning, Generative AI, NLP, LLMs, and AI-powered applications.
+
 👯 Looking to collaborate on: Open Source, AI/ML, GenAI, and Web Development projects.
+
 🤝 Open to: Contributing to impactful AI and software engineering projects.
+
 💬 Ask me about: Python, Machine Learning, Deep Learning, NLP, RAG, Git, and GitHub.
+
 📫 Reach me: aizazexforwardian@gmail.com
 
 ## 🌐 Socials:
