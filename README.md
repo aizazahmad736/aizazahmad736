@@ -18,6 +18,7 @@
 🤝 Open to: Contributing to impactful AI and software engineering projects.
 
 💬 Ask me about: Python, Machine Learning, Deep Learning, NLP, RAG, Git, and GitHub.
+ same is the case with projects I've done projects on it as well
 
 📫 Reach me: aizazexforwardian@gmail.com
 
