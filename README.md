@@ -9,7 +9,7 @@
 
 🔭 Currently building: AI/ML projects, RAG applications, and intelligent software solutions.
 
-🌱 Currently learning: Deep Learning, NLP, LLMs, RAG, React, and MERN Stack.
+🌱 Currently learning: Deep Learning, NLP, LLMs and RAG
 
 🤖 Interested in: Machine Learning, Generative AI, NLP, LLMs, and AI-powered applications.
 
