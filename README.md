@@ -3,9 +3,9 @@
 
 
 
-##  Hi,  Aizaz Ahmad a python developer and an AI Engineer.
+##  Hi, Myself Aizaz Ahmad a python developer and an AI Engineer.
 
-## AI Ambassador at @Mindhyve | Machine Learning  |  AI Engineer
+## AI Ambassador at @Mindhyve || Machine Learning  || Deep learning
 
 🔭 Currently building: AI/ML projects, RAG applications, and intelligent software solutions.
 
