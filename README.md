@@ -7,7 +7,7 @@
 
 ## AI Ambassador at @Mindhyve || Machine Learning  || Deep learning
 
-🔭 Currently building: AI/ML projects, RAG applications, and intelligent software solutions.
+🔭 Currently building: AI/ML projects, RAG applications, and intelligent software solutions and paid online projects.
 
 🌱 Currently learning: Deep Learning, NLP, LLMs and RAG
 
