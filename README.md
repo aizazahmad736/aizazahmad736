@@ -7,7 +7,7 @@
 
 ## AI Ambassador at @Mindhyve || Machine Learning  || Deep learning and Gen Ai || Agentic Ai
 
-🔭 Currently building: AI/ML projects, RAG applications, and intelligent software solutions and paid online projects.
+🔭 Currently building: n8n Agents and intelligent software solutions and paid online projects.
 
 🌱 Currently learning: Deep Learning, NLP, LLMs and RAG
 
