@@ -10,8 +10,6 @@
 🔭 Currently building: n8n Agents and intelligent software solutions and paid online projects.
 
 
-🤖 Interested in: Machine Learning, Generative AI, NLP, LLMs, and AI-powered applications.
-
 👯 Looking to collaborate on: Open Source, AI/ML, GenAI, and Web Development projects.
 
 🤝 Open to: Contributing to impactful AI and software engineering projects.
