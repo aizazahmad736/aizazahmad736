@@ -9,7 +9,6 @@
 
 🔭 Currently building: n8n Agents and intelligent software solutions and paid online projects.
 
-🌱 Currently learning: Deep Learning, NLP, LLMs and RAG
 
 🤖 Interested in: Machine Learning, Generative AI, NLP, LLMs, and AI-powered applications.
 
