@@ -7,15 +7,16 @@
 
 ## AI Ambassador at @Mindhyve || Machine Learning  || Deep learning and Gen Ai || Agentic Ai and Agents building
 
-🔭 Currently building: n8n Agents and intelligent software solutions and paid online projects.
+🔭 Currently building: AI agents with n8n, intelligent software solutions, and production-focused AI/ML projects.
 
+👯 Looking to collaborate on: Open Source, AI/ML, Generative AI, automation, and full-stack software projects.
 
-👯 Looking to collaborate on: Open Source, AI/ML, GenAI, and Web Development projects.
+🤝 Open to: AI engineering, machine learning, and software development collaborations, internships, and freelance projects.
 
-🤝 Open to: Contributing to impactful AI and software engineering projects.
+💬 Ask me about: Python, Machine Learning, Deep Learning, NLP, RAG, AI Agents, FastAPI, Git, GitHub, and building AI-powered applications.
 
-💬 Ask me about: Python, Machine Learning, Deep Learning, NLP, RAG, Git, and GitHub.
- same is the case with projects I've done projects on it as well
+⚡ Projects: I’ve built and deployed projects across Machine Learning, AI-powered applications, recommendation systems, predictive analytics, and intelligent automation.
+
 
 📫 Reach me: aizazexforwardian@gmail.com
 
