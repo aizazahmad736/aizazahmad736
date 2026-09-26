@@ -3,7 +3,7 @@
 
 
 
-##  Hi, Myself Aizaz Ahmad a python developer and working as an AI Engineer.
+##  Hi, Myself Aizaz Ahmad a python developer and working as an AI Engineer and Gen Ai engineer. 
 
 ## AI Ambassador at @Mindhyve || Machine Learning  || Deep learning and Gen Ai || Agentic Ai and Agents building
 
