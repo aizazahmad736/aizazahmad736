@@ -5,7 +5,7 @@
 
 ##  Hi, Myself Aizaz Ahmad a python developer and working as an AI Engineer and Gen Ai engineer. 
 
-## AI Ambassador at @Mindhyve || Machine Learning  || Deep learning and Gen Ai || Agentic Ai and Agents building
+## AI Ambassador at @Mindhyve || Machine Learning  || Deep learning and Gen Ai || Agentic Ai and Agents building with n8n automations
 
 🔭 Currently building: AI agents with n8n, intelligent software solutions, and production-focused AI/ML projects.
 
