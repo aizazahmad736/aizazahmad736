@@ -13,8 +13,6 @@
 
 🤝 Open to: AI engineering, machine learning, and software development collaborations, internships, and freelance projects.
 
-💬 Ask me about: Python, Machine Learning, Deep Learning, NLP, RAG, AI Agents, FastAPI, Git, GitHub, and building AI-powered applications.
-
 ⚡ Projects: I’ve built and deployed projects across Machine Learning, AI-powered applications, recommendation systems, predictive analytics, and intelligent automation.
 
 
