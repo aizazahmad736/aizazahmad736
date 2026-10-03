@@ -1,38 +1,31 @@
-# Hi, I'm Aizaz Ahmad 👋
+# Welcome to my Github Profile👋
 
-**AI/ML Engineer · Python Developer · Generative AI & Agentic Systems**
+## Hi, Myself Aizaz Ahmad a python developer and working as an AI Engineer and Gen Ai engineer.
 
-I build practical AI-powered applications, machine learning solutions, and intelligent automations. I’m especially interested in turning AI ideas into useful, production-focused software.
+## AI Ambassador at @Mindhyve || Machine Learning || Deep learning and Gen Ai || Agentic Ai and Agents building with n8n automations
 
-- 🔭 **Currently building:** AI agents, n8n automations, and AI/ML projects
-- 🏢 **AI Ambassador at:** Mindhyve
-- 🤝 **Open to:** AI engineering, machine learning, software development, and open-source collaborations
-- 📫 **Contact:** [Email me](mailto:aizazexforwardian@gmail.com)
-- 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/aizaz-ahmad-a24667349)
+🔭 Currently building: AI agents with n8n, intelligent software solutions, and production-focused AI/ML projects.
 
-## Areas of Focus
+👯 Looking to collaborate on: Open Source, AI/ML, and full-stack software projects.
 
-- Generative AI and agentic systems
-- Machine learning and deep learning
-- Python development
-- AI-powered applications and workflow automation
+🤝 Open to: AI engineering, machine learning, and software development collaborations, internships, and freelance projects.
 
-## Tech Stack
+⚡ Projects: I’ve built and deployed projects across Machine Learning, AI-powered applications...
 
-**Languages:** Python · C++ · JavaScript · TypeScript  
-**AI/ML:** TensorFlow · PyTorch · scikit-learn · NumPy · Pandas  
-**Web & Apps:** React · React Router · Streamlit  
-**Data:** MySQL · MongoDB  
-**Other:** n8n · Unity · Matplotlib
+📫 Reach me: aizazexforwardian@gmail.com
 
-## Featured Project
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aizaz-ahmad-a24667349) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aizazexforwardian@gmail.com)
 
-- [AI Career Copilot](https://github.com/aizazahmad736/ai-career-copilot) — An AI-powered career workspace for CV analysis, skill-gap insights, job matching, and interview preparation.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
 
-## GitHub Activity
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aizazahmad736&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=aizazahmad736&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aizazahmad736&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.shion.dev/api?username=aizazahmad736&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aizazahmad736&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![](https://streak-stats.demolab.com/?user=aizazahmad736&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aizazahmad736&theme=dark&hide_border=true&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
