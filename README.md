@@ -1,6 +1,6 @@
 # Welcome to my Github Profile👋
 
-## Hi, Myself Aizaz Ahmad a python developer and working as an AI Engineer and Gen Ai engineer.
+## Hi, Myself Aizaz Ahmad a python developer and working as an AI Engineer.
 
 ## AI Ambassador at @Mindhyve || Machine Learning || Deep learning and Gen Ai || Agentic Ai and Agents building with n8n automations
 
