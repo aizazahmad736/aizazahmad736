@@ -6,8 +6,6 @@
 
 👯 Looking to collaborate on: Open Source, AI/ML, and full-stack software projects.
 
-🤝 Open to: AI engineering, machine learning, and software development collaborations, internships, and freelance projects.
-
 ⚡ Projects: I’ve built and deployed projects across Machine Learning, AI-powered applications...
 
 📫 Reach me: aizazexforwardian@gmail.com
