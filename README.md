@@ -4,8 +4,6 @@
 
 ## AI Ambassador at @Mindhyve || Machine Learning || Deep learning and Gen Ai || Agentic Ai and Agents building with n8n automations
 
-🔭 Currently building: AI agents with n8n, intelligent software solutions, and production-focused AI/ML projects.
-
 👯 Looking to collaborate on: Open Source, AI/ML, and full-stack software projects.
 
 🤝 Open to: AI engineering, machine learning, and software development collaborations, internships, and freelance projects.
